@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "703493827248",
+    "project_id": "maroproject2",
+    "storage_bucket": "maroproject2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703493827248:android:526fc89220957c9b79e975",
+        "android_client_info": {
+          "package_name": "com.example.marooooooofirebaseproject2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703493827248-lgdmqg3csalk34gkm5g1hhrgdjs6qq8s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.marooooooofirebaseproject2",
+            "certificate_hash": "9818ea4604388b14260fc189dc70f2b8b7621133"
+          }
+        },
+        {
+          "client_id": "703493827248-3hjvpq2bgskjqs2hcnhrllj43biel274.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYm7weCY_-rxzXdK6jwLWe_HgPMS17vvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703493827248-3hjvpq2bgskjqs2hcnhrllj43biel274.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
