@@ -1,16 +1,12 @@
+
 # marooooooofirebaseproject2
 
-A new Flutter project.
+A Facebook clone with full functionality need a little development for errors in kotlin and fast rading for posts
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1 facebook clone](https://github.com/MarwanShams/FaceBook_Clone/assets/142434135/9aae17d7-1819-457c-9e92-e385894040ee)
+![2 facebook clone](https://github.com/MarwanShams/FaceBook_Clone/assets/142434135/fbedd248-6fad-484f-815e-50f069576260)
+![3 facebook clone](https://github.com/MarwanShams/FaceBook_Clone/assets/142434135/e7c18136-5847-4afc-8b6c-fa50c8f583b5)
+![4 facebook clone](https://github.com/MarwanShams/FaceBook_Clone/assets/142434135/8deb2c6d-a626-4a04-8c90-7e4e41f00000)
+![5 facebook clone](https://github.com/MarwanShams/FaceBook_Clone/assets/142434135/8602697d-d233-4fed-b069-5bddd4742d48)
